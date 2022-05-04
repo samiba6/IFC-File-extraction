@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IFCextracter", "IFCextracter\IFCextracter.csproj", "{FA066D04-ABC2-4D90-AC19-11EBF6AC6E5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA066D04-ABC2-4D90-AC19-11EBF6AC6E5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA066D04-ABC2-4D90-AC19-11EBF6AC6E5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA066D04-ABC2-4D90-AC19-11EBF6AC6E5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA066D04-ABC2-4D90-AC19-11EBF6AC6E5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {252C3009-0ED6-46DA-A398-1F9DE2FF5709}
+	EndGlobalSection
+EndGlobal
